@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UnH46VUCXTI=",
+  "success": true,
+  "projectFilePath": "D:\\CodeProjects\\MovieRandomizer\\MovieRandomizer.webapp\\MovieRandomizer.webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joshm\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.10\\microsoft.aspnetcore.app.internal.assets.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
